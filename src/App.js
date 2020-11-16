@@ -57,7 +57,7 @@ class App extends React.Component {
               marginLeft: 20
             }}
           >
-            Название ресурса (десктоп)
+            Интерактивная модель Филёвской линии Московского метро
           </span>
         </div>
         <div className="Appbody">
